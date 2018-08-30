@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.appmei",
+    "sha256_cert_fingerprints":
+    ["2C:21:99:EF:09:0A:63:89:60:24:EE:B9:CF:AA:09:F4:C5:69:A8:39:C5:21:40:D2:EB:5C:CB:FA:EA:E8:70:A5"]
+  }
+}]
